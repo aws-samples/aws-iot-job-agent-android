@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">aws-iot-job-agent-android</string>
+    <string name="config_fragment_name">CONFIG</string>
+    <string name="job_fragment_name">Job</string>
+    <string name="menu_name">More</string>
+    <string name="start">Start</string>
+    <string name="reject">Reject</string>
+    <string name="apply">Apply</string>
+    <string name="complete">Complete</string>
+    <string name="fail">Fail</string>
+    <string name="md5_check">MD5 Check</string>
+    <string name="code_sign_check">Code Sign Check</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/startJob"
+        android:title="@string/start"
+        android:visible="false" />
+    <item
+        android:id="@+id/rejectJob"
+        android:title="@string/reject"
+        android:visible="false" />
+    <item
+        android:id="@+id/applyJob"
+        android:title="@string/apply"
+        android:visible="false" />
+    <item
+        android:id="@+id/completeJob"
+        android:title="@string/complete"
+        android:visible="false" />
+    <item
+        android:id="@+id/failJob"
+        android:title="@string/fail"
+        android:visible="false" />
+</menu>

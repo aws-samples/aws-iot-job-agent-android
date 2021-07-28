@@ -2,6 +2,10 @@
     AWS IoT Job Agent For Android
 </h1>
 
+<p align="center">
+  <a href="https://github.com/aws-samples/aws-iot-job-agent-android/actions/workflows/android.yml"> <img src="https://github.com/aws-samples/aws-iot-job-agent-android/actions/workflows/android.yml/badge.svg?branch=master" alt="Build Status"> </a>
+</p>
+
 ## Overview
 Android service to interact with AWS IoT jobs and Amazon S3 services.
 
